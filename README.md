@@ -1,4 +1,5 @@
-How to run project
+<b>How to run project<b>
+
 Build image:
 docker build . --tag django_demo
 
