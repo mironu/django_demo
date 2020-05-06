@@ -1,7 +1,9 @@
-__How to run project__
+### How to run project
 
-Build image:
+__Build image:__
+
 `docker build . --tag django_demo`
 
-Run image:
+__Run image:__
+
 `docker run -it -v "$(pwd)":/app -p 8000:8000 --rm django_demo`
