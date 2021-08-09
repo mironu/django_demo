@@ -7,3 +7,6 @@ __Build image:__
 __Run image:__
 
 `docker run -it -v "$(pwd)":/app -p 8000:8000 --rm django_demo`
+
+
+#Edit 1
